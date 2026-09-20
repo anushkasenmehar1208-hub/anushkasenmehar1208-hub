@@ -22,7 +22,7 @@ Building full-stack applications with **React · TypeScript · Python · FastAPI
 
 <div align="center">
 
-## ⚡ About Me
+## 👀👁️ About Me
 
 **B.Sc. Physical Science Student @ University of Kelaniya**
 
