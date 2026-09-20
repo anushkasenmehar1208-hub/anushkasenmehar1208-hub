@@ -75,7 +75,7 @@ Currently focused on **Full-Stack Development & AI Application Development**.
 
 ---
 
-# 🚀 Featured Projects
+# 🛜 Featured Projects
 
 <table>
 <tr>
